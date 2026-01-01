@@ -1,0 +1,9 @@
+{
+  "name": "MO Dawgs Baseball Portal",
+  "description": "The unified command center for MO Dawgs Baseball Club, integrating GameChanger schedules and The Futures App development metrics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
